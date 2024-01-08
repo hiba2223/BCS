@@ -1,9 +1,9 @@
 class Rectangle{
   public static void main(String args[]){
     int height, width; 
-    height = 2; 
-    width = 3; 
-    int area = 2*3; 
+    height = 4; 
+    width = 1; 
+    int area = 1*9; 
     System.out.println("Height: " + height);
     System.out.println("Width: " + width);
     System.out.println("Area: " + area);
