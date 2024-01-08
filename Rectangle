@@ -4,8 +4,10 @@ class Rectangle{
     height = 2; 
     width = 3; 
     int area = 2*3; 
+    int circumference = 2+2+3+3;
     System.out.println("Height: " + height);
     System.out.println("Width: " + width);
     System.out.println("Area: " + area);
+    System.out.println("circumference: " + circumference);
     }
   }
